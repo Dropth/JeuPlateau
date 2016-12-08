@@ -1,0 +1,66 @@
+Bonus : Plus 150 Schopes :./images/bonus.png
+Bonus : Plus 150 Schopes :./images/bonus.png
+Bonus : Plus 150 Schopes :./images/bonus.png
+Bonus : Plus 150 Schopes :./images/bonus.png
+Malus : Moins 150 Schopes :./images/malus.png
+Malus : Moins 150 Schopes :./images/malus.png
+Malus : Moins 150 Schopes :./images/malus.png
+Malus : Moins 150 Schopes :./images/malus.png
+Perdant Perdant : Les 2 équipes perdent 200 Schopes AV :./images/perdant.png
+Gagnant Gagnant : Les 2 équipes gagnent 200 Schopes AV :./images/gagnant.png
+Perdant Perdant : Les 2 équipes gagnent 400 Schopes AV :./images/perdant.png
+Gagnant Gagnant : Les 2 équipes gagnent  400 Schopes AV :./images/gagnant.png
+Perm : Si lancer de dé = 1 ou 2 passe ton tour. :./images/de.png
+Acide : Citron dans la bouche pendant 2 tours :./images/acide.png
+Augmentation de capital: L’équipe qui gagne la prochaine épreuve collective voit son total de schopes augmenter de 15%. :./images/capitale.png
+Seul Tout : Nombre de schopes gagnés pour une épreuve individuelle  = x3. :./images/seul.png
+Boucliette : Accorde une boucliette :./images/bouclier.png
+Stop : 3 tours = -2 au lancer de dés :./images/stop.png
+Go : 3 tours = +2 au lancer de dés :./images/go.png
+Professeur Massot : Augmente les gains de 40% et les pertes de 60%. :./images/mathieu.png
+Ninja Fofo : Vous pouvez voler 100 Schopes tout de suite ou esquiver un Malus.TL3 :./images/fofo.png
+Capitaine Baulin : Utilise son bateau pour être transporté dans un rayon de 3 cases. TL3 :./images/baulin.png
+Saint Pierre : Décide de l’épreuve pour son tour et celui de l’adversaire. TL3 :./images/pierre.png
+Docteur Timon : Convertit les points perdus en points gagnés pour 2 tours. TL4 :./images/timon.png
+Révérend  Piwowarczyk : Réduit les pertes de 20% et augmente les gains de 20%. :./images/theo.png
+Commissaire Perret : L’équipe joue un tour supplémentaire. TL4 :./images/adrien.png
+Maréchal Féret : Invulnérable pendant 2 tours. TL3 (Pas de pertes) :./images/jerome.png
+Magic Louis : Regarde 4 cartes saugrenues et les met dans l’ordre qu’il veut. TL3 :./images/louis.png
+Poison : Perd 50 Schopes pendant 10 tours :./images/poison.png
+Collés : Les joueurs de l’équipe adverse doivent toujours un contact épidermique entre eux. 3 tours. -50 Schopes :./images/colle.png
+Bisou : Smack à ton partenaire sinon (-200) :./images/bisou.png
+Assis : Vous devez vous asseoir sur votre partenaire. 2 tours :./images/assis.png
+Eye Contact : Vous êtes obligés de regarder votre partenaire dans le blanc des yeux pendant 1 tour (-200) :./images/eye.png
+Quitte ou Double : Double les points de la prochaine épreuve AV. :./images/quitte.png
+Calin : Vous faîtes un câlin à votre partenaire. :./images/calin.png
+Grossier Personnage : Vous devez terminer chacun de vos phrases par une insulte (-50). 2 tours. :./images/grossier.png
+Silence : Chaque mot prononcé coûte 20 Schopes. 1 joueur. :./images/silence.png
+Castration : Vous devez parler avec une voix plus aigüe que d’habitude pendant 1 tour. (-50) :./images/cas.png
+Robinet : +40 Schopes par tour pendant 10 tours. :./images/robinet.png
+Switch : Toutes les cartes sont échangées. :./images/switch.png
+Switch : Toutes les cartes sont échangées AV. :./images/switch.png
+Cloche Pied : Vous passerez les prochains Défficiles à Cloche Pied. :./images/cloche.png
+MST : Vous perdez 50 Schopes par nombre de partenaires sexuels que vous avez eus (tous joueurs combinés). :./images/mst.png
+Coquin : Vous gagnez 50 Schopes par nombre de partenaires sexuels que vous avez eus (tous joueurs combinés). :./images/coquin.png
+Dix Mille : Carte 10.000 :./images/de.png
+Dix Mille : Carte 10.000 :./images/de.png
+Clap Clap : Vous devez taper 2 fois dans ses mains toutes les 12 secondes sous peine de perdre 50 Schopes. 1 tour :./images/clap.png
+Chrono : 30 secondes de Bonus à la prochaine épreuve de votre choix. :./images/chrono.png
+Pertes : Tous vos gains sont réduits de 20%. 3 tours :./images/pertes.png
+Gains : Vos gains sont augmentés de 10%. 3 tours :./images/gains.png
+Jour de chance ? : Lance un dé, si c’est un six, tu gagnes 500 schops. :./images/de.png
+PD : Vous prenez le prénom de votre partenaire de droite. 3 tours (-100) :./images/pd.png
+Otage : Payez 400 Schopes ou perdez aléatoirement un membre de l’équipe pendant 3 tours. :./images/otage.png
+Ni oui Ni non : Une erreur coute 100 Schopes (2 tours). :./images/ni.png
+Ni oui Ni non : Une erreur coute 100 Schopes (2 tours). :./images/ni.png
+Candy Day : Misez jusqu’à 300 Schopes dans une partie de Black Jack endiablée. :./images/candy.png
+Candy Day : Misez jusqu’à 300 Schopes dans une partie de Black Jack endiablée. :./images/candy.png
+Manchot : 1 joueur de l’équipe perd l’usage de ses bras. 2 tours :./images/mancho.png
+Aveugle : 1 joueur de l’équipe perd l’usage de la vue. 1 tour :./images/aveugle.png
+Sourd : 1 joueur de l’équipe doit porter un casque avec de la musique. 1 tour :./images/sourd.png
+Muet : 1 joueur de l’équipe est défendu de parler. 1 tour :./images/muet.png
+Sombrero : Permet d’esquiver une perte de points. :./images/sombrehero.png
+Coup de Foudre : Permet de supprimer n’importe quelle carte saugrenue du jeu de l'adversaire ou du votre. Héros non inclus. :./images/foudre.png
+Coup de Foudre : Permet de supprimer n’importe quelle carte saugrenue du jeu de l'adversaire ou du votre. Héros non inclus. :./images/foudre.png
+Négociations : Vous achetez une carte à l’équipe adverse. Lancez un dé, le prix de vente est de 100 Schopes x résultat dé. :./images/nego.png
+Escargot : Vous êtes limités à un déplacement de 3 cases. 3 tours. :./images/esca.png
